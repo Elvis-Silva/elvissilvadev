@@ -7,9 +7,6 @@
 
 /* You can override the default Infima variables here. */
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap')
-body {
-  font-family: 'Comfortaa', cursive;
-}
 
 :root {
   --ifm-color-primary: #25c2a0;
@@ -19,6 +16,7 @@ body {
   --ifm-color-primary-light: rgb(70, 203, 174);
   --ifm-color-primary-lighter: rgb(102, 212, 189);
   --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-heading-font-family: 'Comfortaa', cursive;
   --ifm-code-font-size: 95%;
 }
 
