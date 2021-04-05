@@ -69,6 +69,10 @@ module.exports = {
               to: 'blog',
             },
             {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/elvissilva.dev',
+            },
+            {
               label: 'GitHub',
               href: 'https://github.com/Elvis-Silva',
             },
