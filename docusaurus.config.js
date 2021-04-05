@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Elvis Silva',
   tagline: 'Programador',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://elvissilvadev.vercel.app',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
@@ -10,7 +10,7 @@ module.exports = {
     navbar: {
       title: 'Elvis Silva',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Elvis Silva Logo',
         src: 'img/logo.svg',
       },
       links: [
