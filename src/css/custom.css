@@ -6,6 +6,11 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500&display=swap')
+body {
+  font-family: 'Comfortaa', sans-serif;
+}
+
 :root {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: rgb(33, 175, 144);
