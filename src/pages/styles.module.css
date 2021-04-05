@@ -3,6 +3,10 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500&display=swap')
+body {
+  font-family: 'Comfortaa', sans-serif;
+}
 
 .heroBanner {
   padding: 4rem 0;
