@@ -60,7 +60,7 @@ function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Elvis Silva Programador <head />">
+      description="Elvis Silva Programador <head />" className={styles.confortaa}>
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
