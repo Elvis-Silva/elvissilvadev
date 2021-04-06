@@ -4,6 +4,9 @@
  * and scoped locally.
  */
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;500&display=swap');
+.confortaa {
+  font-family: 'Confortaa', cursive;
+}
 
 .heroBanner {
   padding: 4rem 0;
